@@ -133,9 +133,6 @@ Route::get('/transection', function () {
 
 
 
-
-
-
 // Customer Section
 
 Route::get('/customerdashboard',function(){
